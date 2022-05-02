@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Flores</h1>
-<h3 align="center">I am a Latino Developer, I love listening to Tchaikovsky and watching F1 GPs.</h3>
+<h3 align="center">I am a Latino Developer, I love listening to Tchaikovsky's Waltz of the Flowers and watching F1 Grand Prixes, #TeamRedBull 🐂🌮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binary-penguin&label=Profile%20views&color=0e75b6&style=flat" alt="binary-penguin" /> </p>
 
