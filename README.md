@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Flores</h1>
-<h3 align="center">I am a Latino Developer, I love listening to Tchaikovsky's Waltz of the Flowers and watching F1 Grand Prixes, #TeamRedBull 🐂🌮</h3>
+<h3 align="center">I am a Latino Developer, I love listening to Tchaikovsky's Waltz of the Flowers and watching F1 Grand Prixes, #TeamRedBull 🐂🇲🇽</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binary-penguin&label=Profile%20views&color=0e75b6&style=flat" alt="binary-penguin" /> </p>
 
@@ -14,9 +14,10 @@
 <a href="https://linkedin.com/in/jorge-flores-615279159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-flores-615279159" height="30" width="40" /></a>
 </p>
 
-- ⭐ My Favourite CS Youtube Channels
-- [Two Minute Papers] (https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
-- [DotCSV] (https://www.youtube.com/c/DotCSV) 
+- ⭐ My Favourite CS Youtube Channels:
+
+  - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
+  - [DotCSV](https://www.youtube.com/c/DotCSV) 
 
 
 <h3 align="left">Languages and Tools:</h3>
