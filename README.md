@@ -14,9 +14,9 @@
 <a href="https://linkedin.com/in/jorge-flores-615279159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-flores-615279159" height="30" width="40" /></a>
 </p>
 
-- ⭐ My Top CS Youtube Channels
-- [! https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos] [Two Minute Papers]
-- [! https://www.youtube.com/c/DotCSV] [DotCSV]
+- ⭐ My Favourite CS Youtube Channels
+- [Two Minute Papers] (https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
+- [DotCSV] (https://www.youtube.com/c/DotCSV) 
 
 
 <h3 align="left">Languages and Tools:</h3>
