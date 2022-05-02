@@ -15,8 +15,8 @@
 </p>
 
 - ⭐ My Top CS Youtube Channels
-- [! https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos] Two Minute Papers
-- [! https://www.youtube.com/c/DotCSV] DotCSV
+- [! https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos] [Two Minute Papers]
+- [! https://www.youtube.com/c/DotCSV] [DotCSV]
 
 
 <h3 align="left">Languages and Tools:</h3>
