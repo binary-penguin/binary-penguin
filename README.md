@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, GraphQL**
 
-- 💬 Ask me about **Web Development, Computer Science Research, Data Structures & Algos.**
+- 💬 Ask me about **Web Development, Concurrency, SQL, Python, Java, C, C++, Data Structures & Algos.**
 
 - 📫 How to reach me **jorge.flores.dev@gmail.com**
 
