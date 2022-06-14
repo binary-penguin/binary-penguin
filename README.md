@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binary-penguin&label=Profile%20views&color=0e75b6&style=flat" alt="binary-penguin" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, GraphQL**
+- 🌱 I’m currently learning **Data Analysis with Python**
 
 - 💬 Ask me about **Web Development, Concurrency, SQL, Python, Java, C, C++, Data Structures & Algos.**
 
